@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+myenv/
+.env
+.venv
+logs/*.log
+instance/
+.DS_Store
+*.pid
+*.lock
